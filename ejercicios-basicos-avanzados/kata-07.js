@@ -6,6 +6,11 @@
 
 function greaterNumber(numberOne , numberTwo) {
   // Completar código
+  //SOLUCION:
+  if (numberOne > numberTwo) { console.log(numberOne)}
+  else {console.log(numberTwo)}
+  
 }
-
-
+greaterNumber(3, 8)
+greaterNumber(8, 3)
+greaterNumber(5, 5)

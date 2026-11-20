@@ -12,10 +12,10 @@ Entrega objetivo: **30 de agosto de 2026**
 
 | Carpeta | Bloque | Katas | Estado |
 |---|---|:--:|:--:|
-| `ejercicios-basicos-avanzados/` | Ejercicios básicos y avanzados | 42 | 3 / 42 |
+| `ejercicios-basicos-avanzados/` | Ejercicios básicos y avanzados | 42 | 7 / 42 |
 | `ejercicios-dom/` | Ejercicios de DOM | 5 | 0 / 5 |
 | `ejercicios-es6-asincronia/` | Ejercicios de ES6+ y asincronía | 9 | 0 / 9 |
-| **Total** | | **56** | **3 / 56** |
+| **Total** | | **56** | **7 / 56** |
 
 ---
 
